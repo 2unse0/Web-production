@@ -1,5 +1,4 @@
 # Web-production
-아임웹을 활용한 스포츠웨어 전문 플랫폼 제작
 ![image01](https://github.com/2unse0/Web-production/assets/115604707/61ff3f0c-4c51-4005-b6c4-8884b1d01937)
 ![About Wearth](https://github.com/2unse0/Web-production/assets/115604707/2b80d68f-9ecd-4f08-bb3b-ad00defeca6f)
 ![For Me_ ballet](https://github.com/2unse0/Web-production/assets/115604707/786565e1-5156-4301-bbd8-b9c6fe6ca099)
